@@ -1,0 +1,29 @@
+{
+  "name": "super-scheduler-deluxe-5million",
+  "version": "1.0.0",
+  "description": "My prime Nuxt.js project",
+  "author": "paul-kline",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "@types/jest": "^24.0.23",
+    "nuxt": "^2.0.0",
+    "vue-property-decorator": "^8.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.3.7",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.9.0",
+    "vue-jest": "^4.0.0-0"
+  }
+}
